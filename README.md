@@ -1,1 +1,1 @@
-# first_parllax
+# Парлакс эффект на HTML\CSS\JS
